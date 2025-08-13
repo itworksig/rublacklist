@@ -1,3 +1,5 @@
 это открытый проект, целью которого является сбор и упорядочение списка доменов, заблокированных в России.
 
 domains.list - https://antifilter.download/
+
+https://iplist.opencck.org/
