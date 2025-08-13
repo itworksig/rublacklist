@@ -43,9 +43,6 @@ jobs:
           # 提取 DOMAIN-SUFFIX 规则
           grep "^DOMAIN-SUFFIX," bypass.list | cut -d',' -f2 >> "$temp_domains"
           
-          # 为 DOMAIN-SUFFIX 规则添加 www 前缀
-          grep "^DOMAIN-SUFFIX," bypass.list | cut -d',' -f2 | sed 's/^/www./' >> "$temp_domains"
-          
           # 去重并排序
           sort "$temp_domains" | uniq > "${temp_domains}.sorted"
           
