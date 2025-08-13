@@ -1,5 +1,3 @@
-DOMAIN-SUFFIX,hetzner.com
-DOMAIN-SUFFIX,mybrowseraddon.com
 DOMAIN-SUFFIX,000-255.sentry.io
 DOMAIN-SUFFIX,0011.sentry.io
 DOMAIN-SUFFIX,010-011.sentry.io
@@ -2295,6 +2293,7 @@ DOMAIN-SUFFIX,help.sentry.io
 DOMAIN-SUFFIX,help.trainingpeaks.com
 DOMAIN-SUFFIX,help.viber.com
 DOMAIN-SUFFIX,hentaichan.live
+DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,hiring.naukri.com
 DOMAIN-SUFFIX,hk.rule34.xxx
 DOMAIN-SUFFIX,hlsvod.dw.com
@@ -4359,6 +4358,7 @@ DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,my.naukri.com
 DOMAIN-SUFFIX,my.sentry.io
 DOMAIN-SUFFIX,mybbc-analytics.files.bbci.co.uk
+DOMAIN-SUFFIX,mybrowseraddon.com
 DOMAIN-SUFFIX,myjetbrains.com
 DOMAIN-SUFFIX,mystic.femeretes.org
 DOMAIN-SUFFIX,mystic.stream.voidboost.cc
