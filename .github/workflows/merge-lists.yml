@@ -37,11 +37,16 @@ jobs:
           # 创建临时文件来收集所有域名
           temp_domains=$(mktemp)
           
-          # 提取 DOMAIN 规则
-          grep "^DOMAIN," bypass.list | cut -d',' -f2 >> "$temp_domains"
-          
-          # 提取 DOMAIN-SUFFIX 规则
-          grep "^DOMAIN-SUFFIX," bypass.list | cut -d',' -f2 >> "$temp_domains"
+          # 只处理主目录下的列表文件（排除子文件夹）
+          for file in *.list; do
+            if [ -f "$file" ]; then
+              echo "Processing main directory file for Amnezia: $file"
+              # 提取 DOMAIN 规则
+              grep "^DOMAIN," "$file" | cut -d',' -f2 >> "$temp_domains"
+              # 提取 DOMAIN-SUFFIX 规则
+              grep "^DOMAIN-SUFFIX," "$file" | cut -d',' -f2 >> "$temp_domains"
+            fi
+          done
           
           # 去重并排序
           sort "$temp_domains" | uniq > "${temp_domains}.sorted"
