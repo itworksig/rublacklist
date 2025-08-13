@@ -1,18 +1,3 @@
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,returnyoutubedislikeapi.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,youtube-nocookie.l.google.com
-DOMAIN-SUFFIX,youtube-ui.l.google.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,youtube.googleapis.com
-DOMAIN-SUFFIX,youtube.l.google.com
-DOMAIN-SUFFIX,youtubeadservices.com
-DOMAIN-SUFFIX,youtubeanalytics.googleapis.com
-DOMAIN-SUFFIX,youtubeeducation.com
-DOMAIN-SUFFIX,youtubei.googleapis.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,ytimg.l.google.com
 DOMAIN-SUFFIX,_domainkey.youtube.com
 DOMAIN-SUFFIX,a.rtmp.youtube.com
 DOMAIN-SUFFIX,a.rtmps.youtube.com
@@ -9768,6 +9753,7 @@ DOMAIN-SUFFIX,www.youtubeeducation.com
 DOMAIN-SUFFIX,www.youtubegaming.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtube-nocookie.l.google.com
 DOMAIN-SUFFIX,youtube-ui.l.google.com
 DOMAIN-SUFFIX,youtube.ae
 DOMAIN-SUFFIX,youtube.al
@@ -9879,6 +9865,7 @@ DOMAIN-SUFFIX,youtube.jo
 DOMAIN-SUFFIX,youtube.jp
 DOMAIN-SUFFIX,youtube.kr
 DOMAIN-SUFFIX,youtube.kz
+DOMAIN-SUFFIX,youtube.l.google.com
 DOMAIN-SUFFIX,youtube.la
 DOMAIN-SUFFIX,youtube.lk
 DOMAIN-SUFFIX,youtube.lt
@@ -9921,6 +9908,8 @@ DOMAIN-SUFFIX,youtube.ua
 DOMAIN-SUFFIX,youtube.ug
 DOMAIN-SUFFIX,youtube.uy
 DOMAIN-SUFFIX,youtube.vn
+DOMAIN-SUFFIX,youtubeadservices.com
+DOMAIN-SUFFIX,youtubeanalytics.googleapis.com
 DOMAIN-SUFFIX,youtubeeducation.com
 DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
 DOMAIN-SUFFIX,youtubefanfest.com
@@ -9942,4 +9931,5 @@ DOMAIN-SUFFIX,yt3.ggpht.com
 DOMAIN-SUFFIX,yt3.googleusercontent.com
 DOMAIN-SUFFIX,yt4.ggpht.com
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ytimg.l.google.com
 DOMAIN-SUFFIX,za.youtube.com
