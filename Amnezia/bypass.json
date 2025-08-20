@@ -6670,6 +6670,11 @@
     }
 ,
     {
+        "hostname": "censortracker.org",
+        "ip": ""
+    }
+,
+    {
         "hostname": "centaurus.femeretes.org",
         "ip": ""
     }

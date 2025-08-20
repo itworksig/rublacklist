@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,cdn.signal.me
 DOMAIN-SUFFIX,cdn.signal.org
 DOMAIN-SUFFIX,cdn2.signal.me
 DOMAIN-SUFFIX,cdn2.signal.org
+DOMAIN-SUFFIX,censortracker.org
 DOMAIN-SUFFIX,cloudflare-ech.com
 DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,contact.discovery.signal.org
@@ -44,4 +45,3 @@ DOMAIN-SUFFIX,tf1info.fr
 DOMAIN-SUFFIX,updates.signal.org
 DOMAIN-SUFFIX,vpnpay.io
 DOMAIN-SUFFIX,xeovo.com
-DOMAIN-SUFFIX,censortracker.org
