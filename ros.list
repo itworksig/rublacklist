@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,amnesty.org
 DOMAIN-SUFFIX,amnezia.org
+DOMAIN-SUFFIX,browsec.com
 DOMAIN-SUFFIX,cdn.signal.me
 DOMAIN-SUFFIX,cdn.signal.org
 DOMAIN-SUFFIX,cdn2.signal.me
@@ -21,7 +22,10 @@ DOMAIN-SUFFIX,dpidetect.org
 DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,ficbook.net
 DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,icegatevpn.com
 DOMAIN-SUFFIX,itsmycity.ru
+DOMAIN-SUFFIX,lantern.io
+DOMAIN-SUFFIX,librevpn.org
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,meduza.io
 DOMAIN-SUFFIX,megaup.net
@@ -40,7 +44,3 @@ DOMAIN-SUFFIX,tf1info.fr
 DOMAIN-SUFFIX,updates.signal.org
 DOMAIN-SUFFIX,vpnpay.io
 DOMAIN-SUFFIX,xeovo.com
-DOMAIN-SUFFIX,icegatevpn.com
-DOMAIN-SUFFIX,browsec.com
-DOMAIN-SUFFIX,lantern.io
-DOMAIN-SUFFIX,librevpn.org

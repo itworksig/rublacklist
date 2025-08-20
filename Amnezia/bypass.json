@@ -5430,6 +5430,11 @@
     }
 ,
     {
+        "hostname": "browsec.com",
+        "ip": ""
+    }
+,
+    {
         "hostname": "browser-intake-datadoghq.com",
         "ip": ""
     }
@@ -16815,6 +16820,11 @@
     }
 ,
     {
+        "hostname": "icegatevpn.com",
+        "ip": ""
+    }
+,
+    {
         "hostname": "ichef.bbci.co.uk",
         "ip": ""
     }
@@ -23275,6 +23285,11 @@
     }
 ,
     {
+        "hostname": "lantern.io",
+        "ip": ""
+    }
+,
+    {
         "hostname": "lanternal.com",
         "ip": ""
     }
@@ -23431,6 +23446,11 @@
 ,
     {
         "hostname": "libraweb.tiktokw.eu",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "librevpn.org",
         "ip": ""
     }
 ,
