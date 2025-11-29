@@ -410,6 +410,11 @@
     }
 ,
     {
+        "hostname": "accounts.snapchat.com",
+        "ip": ""
+    }
+,
+    {
         "hostname": "accounts.spotify.com",
         "ip": ""
     }
@@ -540,12 +545,22 @@
     }
 ,
     {
+        "hostname": "ads.snapchat.com",
+        "ip": ""
+    }
+,
+    {
         "hostname": "ads.viber.com",
         "ip": ""
     }
 ,
     {
         "hostname": "ads.youtube.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "adsapi.snapchat.com",
         "ip": ""
     }
 ,
@@ -826,6 +841,11 @@
 ,
     {
         "hostname": "ap-help.api.jetbrains.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "ap-southeast1-edge-snap.com",
         "ip": ""
     }
 ,
@@ -1335,6 +1355,16 @@
     }
 ,
     {
+        "hostname": "app.snapchat.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "app.snapkit.com",
+        "ip": ""
+    }
+,
+    {
         "hostname": "app.test.tuta.com",
         "ip": ""
     }
@@ -1486,6 +1516,11 @@
 ,
     {
         "hostname": "asia-south1-livekit.grok.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "asia.snapchatcdn.com",
         "ip": ""
     }
 ,
@@ -2136,6 +2171,11 @@
 ,
     {
         "hostname": "auth.openai.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "auth.snapchat.com",
         "ip": ""
     }
 ,
@@ -6765,6 +6805,11 @@
     }
 ,
     {
+        "hostname": "cf-st.sc-cdn.net",
+        "ip": ""
+    }
+,
+    {
         "hostname": "cf.perf.linkedin.com",
         "ip": ""
     }
@@ -8665,6 +8710,11 @@
     }
 ,
     {
+        "hostname": "edge-snap.com",
+        "ip": ""
+    }
+,
+    {
         "hostname": "edge-sonar-mini-shv-01-amt2.fbcdn.net",
         "ip": ""
     }
@@ -9390,12 +9440,22 @@
     }
 ,
     {
+        "hostname": "eu-west1-edge-snap.com",
+        "ip": ""
+    }
+,
+    {
         "hostname": "eu.grid.make.com",
         "ip": ""
     }
 ,
     {
         "hostname": "eu.org",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "eu.snapchatcdn.com",
         "ip": ""
     }
 ,
@@ -9696,6 +9756,31 @@
 ,
     {
         "hostname": "feeds.naukri.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "feelinsonice-hr.appspot.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "feelinsonice-hrd-hr.appspot.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "feelinsonice-hrd.appspot.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "feelinsonice.appspot.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "feelinsonice.com",
         "ip": ""
     }
 ,
@@ -17050,6 +17135,11 @@
     }
 ,
     {
+        "hostname": "img.snapchatcdn.com",
+        "ip": ""
+    }
+,
+    {
         "hostname": "img.strpst.com",
         "ip": ""
     }
@@ -17551,6 +17641,11 @@
 ,
     {
         "hostname": "insights.naukri.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "insights.snapchat.com",
         "ip": ""
     }
 ,
@@ -23215,6 +23310,11 @@
     }
 ,
     {
+        "hostname": "kit.snapchat.com",
+        "ip": ""
+    }
+,
+    {
         "hostname": "kodik-add.com",
         "ip": ""
     }
@@ -24466,6 +24566,11 @@
 ,
     {
         "hostname": "manifest.googlevideo.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "map.snapchat.com",
         "ip": ""
     }
 ,
@@ -90200,6 +90305,66 @@
     }
 ,
     {
+        "hostname": "sc-analytics.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "sc-cdn.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "sc-cdn.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "sc-ctf.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "sc-gfx.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "sc-gw.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "sc-lnkd.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "sc-oc.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "sc-prod.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "sc-prod.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "sc-static.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "sc-video.net",
+        "ip": ""
+    }
+,
+    {
         "hostname": "scandium.femeretes.org",
         "ip": ""
     }
@@ -93370,7 +93535,57 @@
     }
 ,
     {
+        "hostname": "snap-dev.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "snap-map.com",
+        "ip": ""
+    }
+,
+    {
         "hostname": "snap.licdn.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "snapads.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "snapchat-profiles.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "snapchat.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "snapchatcdn.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "snapchatmap.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "snapfiles.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "snapkit.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "snapmaps.com",
         "ip": ""
     }
 ,
@@ -95330,12 +95545,22 @@
     }
 ,
     {
+        "hostname": "stories.snapchat.com",
+        "ip": ""
+    }
+,
+    {
         "hostname": "stories.strava.com",
         "ip": ""
     }
 ,
     {
         "hostname": "storm.femeretes.org",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "story.snapchat.com",
         "ip": ""
     }
 ,
@@ -98211,6 +98436,11 @@
 ,
     {
         "hostname": "us-east-4-raw.api.x.ai",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "us-east1-edge-snap.com",
         "ip": ""
     }
 ,
@@ -101960,6 +102190,11 @@
     }
 ,
     {
+        "hostname": "us.snapchatcdn.com",
+        "ip": ""
+    }
+,
+    {
         "hostname": "us.tiktok.com",
         "ip": ""
     }
@@ -102331,6 +102566,11 @@
 ,
     {
         "hostname": "video.externulls.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "video.snapchatcdn.com",
         "ip": ""
     }
 ,
@@ -104836,6 +105076,11 @@
 ,
     {
         "hostname": "www.signal.org",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "www.snapchat.com",
         "ip": ""
     }
 ,
