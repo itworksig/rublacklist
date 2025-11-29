@@ -1215,6 +1215,11 @@
     }
 ,
     {
+        "hostname": "api.whatsapp.com",
+        "ip": ""
+    }
+,
+    {
         "hostname": "api.x.ai",
         "ip": ""
     }
@@ -6105,6 +6110,11 @@
     }
 ,
     {
+        "hostname": "business.whatsapp.com",
+        "ip": ""
+    }
+,
+    {
         "hostname": "byid.eu-1.jetbrains.space",
         "ip": ""
     }
@@ -6325,6 +6335,11 @@
     }
 ,
     {
+        "hostname": "call.whatsapp.com",
+        "ip": ""
+    }
+,
+    {
         "hostname": "calls.viber.com",
         "ip": ""
     }
@@ -6501,6 +6516,11 @@
 ,
     {
         "hostname": "cdn.viber.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "cdn.whatsapp.net",
         "ip": ""
     }
 ,
@@ -6806,6 +6826,11 @@
 ,
     {
         "hostname": "chat.viber.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "chat.whatsapp.com",
         "ip": ""
     }
 ,
@@ -7381,6 +7406,11 @@
 ,
     {
         "hostname": "cr7.whoop.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "crashlogs.whatsapp.net",
         "ip": ""
     }
 ,
@@ -9561,6 +9591,11 @@
 ,
     {
         "hostname": "fanbox.cc",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "faq.whatsapp.com",
         "ip": ""
     }
 ,
@@ -12551,6 +12586,11 @@
 ,
     {
         "hostname": "fuchsia.dev",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "g-fallback.whatsapp.net",
         "ip": ""
     }
 ,
@@ -24515,7 +24555,92 @@
     }
 ,
     {
+        "hostname": "media-ams4-1.cdn.whatsapp.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "media-ams4-2.cdn.whatsapp.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "media-amt2-1.cdn.whatsapp.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "media-amt2-2.cdn.whatsapp.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "media-fra3-1.cdn.whatsapp.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "media-fra3-2.cdn.whatsapp.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "media-hkg4-1.cdn.whatsapp.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "media-hkg4-2.cdn.whatsapp.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "media-iad3-1.cdn.whatsapp.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "media-iad3-2.cdn.whatsapp.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "media-lhr3-1.cdn.whatsapp.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "media-lhr3-2.cdn.whatsapp.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "media-mxp1-1.cdn.whatsapp.net",
+        "ip": ""
+    }
+,
+    {
         "hostname": "media-public.canva.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "media-sin6-1.cdn.whatsapp.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "media-sin6-2.cdn.whatsapp.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "media-x.whatsapp.net",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "media-yyz1-1.cdn.whatsapp.net",
         "ip": ""
     }
 ,
@@ -24606,6 +24731,11 @@
 ,
     {
         "hostname": "media.viber.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "media.whatsapp.net",
         "ip": ""
     }
 ,
@@ -25251,6 +25381,16 @@
 ,
     {
         "hostname": "mkto-mailer.jetbrains.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "mmg.whatsapp.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "mmg.whatsapp.net",
         "ip": ""
     }
 ,
@@ -33086,6 +33226,11 @@
 ,
     {
         "hostname": "potassium.femeretes.org",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "pps.whatsapp.net",
         "ip": ""
     }
 ,
@@ -93245,6 +93390,11 @@
     }
 ,
     {
+        "hostname": "snr.whatsapp.net",
+        "ip": ""
+    }
+,
+    {
         "hostname": "snuba-admin.de.getsentry.net",
         "ip": ""
     }
@@ -101860,6 +102010,11 @@
     }
 ,
     {
+        "hostname": "v.whatsapp.com",
+        "ip": ""
+    }
+,
+    {
         "hostname": "v1.cache1.c.youtube.com",
         "ip": ""
     }
@@ -102406,6 +102561,11 @@
 ,
     {
         "hostname": "w9.api.tuta.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "wa.me",
         "ip": ""
     }
 ,
