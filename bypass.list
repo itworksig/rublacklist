@@ -18931,6 +18931,7 @@ DOMAIN-SUFFIX,sp-pr-cf-ext.audio.tidal.com
 DOMAIN-SUFFIX,sp-pr-cf.audio.tidal.com
 DOMAIN-SUFFIX,space-cdn.jetbrains.space
 DOMAIN-SUFFIX,spclient.wg.spotify.com
+DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,spinnaker.getsentry.net
 DOMAIN-SUFFIX,spinningup.openai.com
 DOMAIN-SUFFIX,spocket-x6.sentry.io
@@ -21387,7 +21388,6 @@ DOMAIN-SUFFIX,zombie.duolingo.com
 DOMAIN-SUFFIX,zona.media
 DOMAIN-SUFFIX,zukunftswerkstatt.de
 DOMAIN-SUFFIX,zynamics.com
-DOMAIN-SUFFIX,speedtest.net
 IP-ASN,20473,no-resolve
 IP-CIDR,160.79.104.0/23,no-resolve
 IP-CIDR,172.110.32.0/21,no-resolve

@@ -94490,6 +94490,11 @@
     }
 ,
     {
+        "hostname": "speedtest.net",
+        "ip": ""
+    }
+,
+    {
         "hostname": "spinnaker.getsentry.net",
         "ip": ""
     }
