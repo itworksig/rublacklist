@@ -7120,6 +7120,11 @@
     }
 ,
     {
+        "hostname": "codeweavers.com",
+        "ip": ""
+    }
+,
+    {
         "hostname": "codewithme-lobby-production.api.jetbrains.com",
         "ip": ""
     }
