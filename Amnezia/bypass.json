@@ -1,5 +1,35 @@
 [
     {
+        "hostname": "*.stel.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "*.t.me",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "*.telegram.me",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "*.telegram.org",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "*.telesco.pe",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "*.tg.dev",
+        "ip": ""
+    }
+,
+    {
         "hostname": "000-255.sentry.io",
         "ip": ""
     }
@@ -7361,6 +7391,11 @@
 ,
     {
         "hostname": "contentcdn.naukri.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "contest.com",
         "ip": ""
     }
 ,
@@ -34661,6 +34696,11 @@
 ,
     {
         "hostname": "quiksee.com",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "quiz.directory",
         "ip": ""
     }
 ,
@@ -96605,6 +96645,11 @@
     }
 ,
     {
+        "hostname": "t.me",
+        "ip": ""
+    }
+,
+    {
         "hostname": "t.scdn.co",
         "ip": ""
     }
@@ -96845,6 +96890,21 @@
     }
 ,
     {
+        "hostname": "telegra.ph",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "telegram.me",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "telegram.org",
+        "ip": ""
+    }
+,
+    {
         "hostname": "telemetry.canva.com",
         "ip": ""
     }
@@ -96941,6 +97001,11 @@
 ,
     {
         "hostname": "tfhub.dev",
+        "ip": ""
+    }
+,
+    {
+        "hostname": "tg.dev",
         "ip": ""
     }
 ,

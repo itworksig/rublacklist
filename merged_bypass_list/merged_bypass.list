@@ -1,3 +1,9 @@
+DOMAIN,*.stel.com
+DOMAIN,*.t.me
+DOMAIN,*.telegram.me
+DOMAIN,*.telegram.org
+DOMAIN,*.telesco.pe
+DOMAIN,*.tg.dev
 DOMAIN,ab.chatgpt.com
 DOMAIN,accounts.snapchat.com
 DOMAIN,ads.snapchat.com
@@ -21,6 +27,7 @@ DOMAIN,chat.openai.com
 DOMAIN,chat.whatsapp.com
 DOMAIN,chatgpt.com
 DOMAIN,clientstream.launchdarkly.com
+DOMAIN,contest.com
 DOMAIN,crashlogs.whatsapp.net
 DOMAIN,desktop.chat.openai.com
 DOMAIN,edge-snap.com
@@ -71,6 +78,7 @@ DOMAIN,o207216.ingest.sentry.io
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,pps.whatsapp.net
 DOMAIN,prodregistryv2.org
+DOMAIN,quiz.directory
 DOMAIN,sc-analytics.com
 DOMAIN,sc-cdn.com
 DOMAIN,sc-cdn.net
@@ -101,7 +109,12 @@ DOMAIN,static.whatsapp.net
 DOMAIN,statsigapi.net
 DOMAIN,stories.snapchat.com
 DOMAIN,story.snapchat.com
+DOMAIN,t.me
 DOMAIN,tcr9i.chat.openai.com
+DOMAIN,telegra.ph
+DOMAIN,telegram.me
+DOMAIN,telegram.org
+DOMAIN,tg.dev
 DOMAIN,us-east1-edge-snap.com
 DOMAIN,us.snapchatcdn.com
 DOMAIN,v.whatsapp.com
